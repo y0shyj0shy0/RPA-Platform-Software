@@ -25,6 +25,8 @@
   - `Data Provider`: 외부 입력 파일 수집 및 저장
   - `Automatic Excel Calculator`: 재고 및 제작 수량 자동 계산
   - `External File System` & `Window Scheduler` 연동
+<img width="354" height="266" alt="image" src="https://github.com/user-attachments/assets/0d53aaef-fb4d-4261-b6c5-79b5a6f917b2" />
+<img width="523" height="363" alt="image" src="https://github.com/user-attachments/assets/d21fe55c-5877-4b55-8841-9bf387159d3d" />
 
 ---
 
