@@ -27,7 +27,8 @@
   - `External File System` & `Window Scheduler` 연동
 <img width="354" height="266" alt="image" src="https://github.com/user-attachments/assets/0d53aaef-fb4d-4261-b6c5-79b5a6f917b2" />
 <img width="523" height="363" alt="image" src="https://github.com/user-attachments/assets/d21fe55c-5877-4b55-8841-9bf387159d3d" />
-- **실행 화면**
+
+ - **실행 화면**
 <img width="728" height="535" alt="image" src="https://github.com/user-attachments/assets/dd6beb7d-c2de-47fb-8006-f7a9c2a4e788" />
 
 ---
